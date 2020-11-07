@@ -1,0 +1,18 @@
+{
+  "1": {
+    "id": 1,
+    "title": "Added manually",
+    "price": 3.5,
+    "authors": [
+      "Someone"
+    ]
+  },
+  "2": {
+    "id": 2,
+    "title": "A book created by post",
+    "price": 2.5,
+    "authors": [
+      "A. Person"
+    ]
+  }
+}
